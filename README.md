@@ -1,8 +1,11 @@
 <h3 align="center">Pacman Reinforcement Learning Agent</h3>
 
+<h2>Pacman Reinforcement Learning Agent</h2>
+
 <p align="center">
-  <img src="assets/pacman_rl_demo.gif" width="520"/>
+  <img src="assets/pacman_rl_demo.gif" width="800"/>
 </p>
+
 
 This project implements a **reinforcement learning agent** that learns to play **Pacman**
 by interacting with a **custom-designed environment** and optimizing cumulative rewards.
